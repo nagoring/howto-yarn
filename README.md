@@ -16,6 +16,9 @@
 3. Node.jsの使用バージョンを設定：
     ```bash
     nvm use --lts
+    or
+    nvm install 20
+    nvm use 20
     ```
 
 ## 3. Yarnのインストール
